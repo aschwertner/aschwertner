@@ -10,7 +10,7 @@
 
 ##
 
-### Programming Languages
+### Programming Languages:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ander-Julia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg">
